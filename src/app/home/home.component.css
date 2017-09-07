@@ -1,8 +1,7 @@
 .home-grid {
-  margin-top: 6%;
-  margin-left: 3%;
-  width: 80%;
-  height: 45em;
+  margin-top: 1%;
+  width: 95%;
+  height: 50em;
   display: grid;
   grid-template-columns: 33% 33% 33%;
   grid-template-rows: 65% 35%;
@@ -35,7 +34,7 @@
   background-color: salmon;
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 1600px) {
   .home-grid {
     margin-top: 6%;
     margin-left: 3%;
